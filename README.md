@@ -1,8 +1,9 @@
 
-<h1 align="center">
-     <img src="https://github.com/user-attachments/assets/5240f4c9-4c8b-4045-bda9-a9dc13c0ae8e" alt="Data Warehouse Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
-    Data warehouse project for a Retail clothing shop
-  <img src="https://github.com/user-attachments/assets/5240f4c9-4c8b-4045-bda9-a9dc13c0ae8e" alt="Data Warehouse Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
+<h1 align="left">
+    
+Data warehouse project for a Retail clothing shop
+  <img src="https://github.com/user-attachments/assets/9d40c509-7fca-44c6-bb0a-f90c252a678f" alt="Data Warehouse Logo" width="30" style="vertical-align: middle; margin-right: 10px;">
+
  
 </h1>
 
