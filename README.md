@@ -1,5 +1,10 @@
 
-# Data warehouse project for a clothing shop
+<h1 align="center">
+     <img src="https://github.com/user-attachments/assets/5240f4c9-4c8b-4045-bda9-a9dc13c0ae8e" alt="Data Warehouse Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
+    Data warehouse project for a Retail clothing shop
+  <img src="https://github.com/user-attachments/assets/5240f4c9-4c8b-4045-bda9-a9dc13c0ae8e" alt="Data Warehouse Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
+ 
+</h1>
 
 A data warehouse for a clothing shop using Oracle (XE) and talend as the ETL process. MySQL, Excel and document databases (JSON) are used as the main data sources. Diagrams related to the data warehouse are also included. 
 
@@ -25,6 +30,13 @@ A data warehouse for a clothing shop using Oracle (XE) and talend as the ETL pro
 
 ## DW Design
 <img width="1075" height="632" alt="image" src="https://github.com/user-attachments/assets/a4246aed-85d9-4456-9d8a-58720bdbe005" />
+
+## ETL Talend Pipelines 
+<img width="456" height="260" alt="4" src="https://github.com/user-attachments/assets/da84e995-c1d8-40a2-acbe-aba70c532c90" />
+<img width="396" height="367" alt="3" src="https://github.com/user-attachments/assets/a6f5ad70-3a4d-4c55-96ea-5eb1611a9316" />
+<img width="416" height="97" alt="2" src="https://github.com/user-attachments/assets/980e5cdb-97ce-422c-9b95-f3f93c38bc55" />
+<img width="449" height="93" alt="1" src="https://github.com/user-attachments/assets/1d8ef617-c010-4606-af5c-039c0a7fad68" />
+
 
 
 ## Screenshots (BI dashboard)
