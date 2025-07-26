@@ -1,0 +1,401 @@
+FeedBackID,CustomerID,ProductID,Rating,Comment,FeedBackDate,Sentiment
+1,206,474,1,Would not recommend to anyone.,2025-02-21,Negative
+2,39,219,3,Expected better packaging.,2025-03-15,Neutral
+3,133,440,1,Very disappointed with the quality.,2025-02-15,Negative
+4,246,260,4,Exceeded my expectations. Looks amazing!,2025-01-15,Positive
+5,321,429,3,Expected better packaging.,2025-01-17,Neutral
+6,394,407,2,Stitching came apart after first wear.,2025-02-25,Negative
+7,315,281,3,Nothing special but works fine.,2025-02-13,Neutral
+8,394,266,3,"Average quality, but acceptable for the price.",2025-03-28,Neutral
+9,149,333,2,Would not recommend to anyone.,2025-02-08,Negative
+10,165,297,3,Nothing special but works fine.,2025-02-06,Neutral
+11,216,396,5,Love the color and the material!,2025-01-17,Positive
+12,108,296,5,Perfect fit and very comfortable.,2025-01-03,Positive
+13,372,267,2,Very disappointed with the quality.,2025-03-28,Negative
+14,219,270,5,Absolutely love the quality of this product!,2025-01-21,Positive
+15,103,158,4,Fabric feels premium and looks great.,2025-03-11,Positive
+16,379,72,5,Exceeded my expectations. Looks amazing!,2025-02-09,Positive
+17,81,222,2,Would not recommend to anyone.,2025-03-29,Negative
+18,192,372,4,Perfect fit and very comfortable.,2025-01-21,Positive
+19,449,422,4,This shirt is my new favorite!,2025-02-03,Positive
+20,475,145,5,Perfect fit and very comfortable.,2025-03-12,Positive
+21,387,159,3,"Decent product, but could be better.",2025-02-03,Neutral
+22,240,100,1,Not worth the money.,2025-03-08,Negative
+23,201,181,4,Love the color and the material!,2025-03-04,Positive
+24,213,183,1,Not worth the money.,2025-03-24,Negative
+25,155,382,4,Fabric feels premium and looks great.,2025-03-24,Positive
+26,486,249,2,Color faded after one wash.,2025-01-24,Negative
+27,276,69,4,Great value for the price. Will buy again.,2025-02-28,Positive
+28,450,59,2,Too small despite ordering my size.,2025-02-22,Negative
+29,171,41,1,Not worth the money.,2025-02-23,Negative
+30,323,62,1,Fabric feels cheap and uncomfortable.,2025-01-14,Negative
+31,51,385,2,Looks different from the pictures.,2025-03-08,Negative
+32,174,399,5,Fits perfectly and looks great with jeans.,2025-03-19,Positive
+33,349,381,1,Too small despite ordering my size.,2025-01-19,Negative
+34,127,348,3,Nothing special but works fine.,2025-03-02,Neutral
+35,353,317,2,Looks different from the pictures.,2025-01-22,Negative
+36,162,345,3,Comfortable but not very stylish.,2025-02-18,Neutral
+37,150,128,4,Fantastic service and great quality clothing.,2025-01-13,Positive
+38,260,154,4,Love the color and the material!,2025-02-07,Positive
+39,126,276,3,"Fit was alright, but not perfect.",2025-03-07,Neutral
+40,297,170,5,Exceeded my expectations. Looks amazing!,2025-03-02,Positive
+41,183,439,1,Does not fit as described.,2025-01-25,Negative
+42,352,285,3,Nothing special but works fine.,2025-02-23,Neutral
+43,474,182,4,Fits perfectly and looks great with jeans.,2025-03-02,Positive
+44,108,304,1,Too small despite ordering my size.,2025-03-27,Negative
+45,23,373,3,"Average quality, but acceptable for the price.",2025-02-07,Neutral
+46,382,26,1,Would not recommend to anyone.,2025-03-28,Negative
+47,245,365,3,Nothing special but works fine.,2025-02-28,Neutral
+48,165,147,3,"Fit was alright, but not perfect.",2025-02-27,Neutral
+49,345,313,2,Very disappointed with the quality.,2025-03-09,Negative
+50,23,474,1,Stitching came apart after first wear.,2025-03-02,Negative
+51,95,119,5,Great value for the price. Will buy again.,2025-01-10,Positive
+52,216,423,3,"Quality is fine, not great though.",2025-03-17,Neutral
+53,88,425,1,Too small despite ordering my size.,2025-02-08,Negative
+54,358,299,2,Very disappointed with the quality.,2025-02-21,Negative
+55,449,436,1,Stitching came apart after first wear.,2025-01-19,Negative
+56,473,8,5,Great value for the price. Will buy again.,2025-01-14,Positive
+57,426,474,2,Too small despite ordering my size.,2025-01-04,Negative
+58,47,292,1,Does not fit as described.,2025-02-26,Negative
+59,33,12,2,Stitching came apart after first wear.,2025-01-01,Negative
+60,57,164,2,Not worth the money.,2025-03-30,Negative
+61,415,228,3,Color was slightly different than shown.,2025-02-23,Neutral
+62,412,73,2,Not worth the money.,2025-02-24,Negative
+63,457,73,2,Arrived damaged and poorly packed.,2025-03-24,Negative
+64,299,255,3,Delivery was late but item was okay.,2025-03-09,Neutral
+65,360,160,5,Exceeded my expectations. Looks amazing!,2025-03-09,Positive
+66,354,281,3,Nothing special but works fine.,2025-01-25,Neutral
+67,189,13,1,Very disappointed with the quality.,2025-02-02,Negative
+68,129,25,1,Would not recommend to anyone.,2025-01-26,Negative
+69,201,455,5,Great value for the price. Will buy again.,2025-01-30,Positive
+70,195,196,1,Color faded after one wash.,2025-03-28,Negative
+71,30,48,5,Fantastic service and great quality clothing.,2025-02-13,Positive
+72,122,173,5,Great value for the price. Will buy again.,2025-01-13,Positive
+73,357,302,4,Perfect fit and very comfortable.,2025-03-08,Positive
+74,117,29,3,"Average quality, but acceptable for the price.",2025-01-26,Neutral
+75,213,292,2,Would not recommend to anyone.,2025-02-17,Negative
+76,102,490,2,Too small despite ordering my size.,2025-03-05,Negative
+77,65,234,1,Fabric feels cheap and uncomfortable.,2025-01-17,Negative
+78,279,249,5,Stylish and arrived quickly. Highly recommended!,2025-01-20,Positive
+79,174,433,3,Comfortable but not very stylish.,2025-02-16,Neutral
+80,23,374,4,Absolutely love the quality of this product!,2025-01-11,Positive
+81,43,291,5,Exceeded my expectations. Looks amazing!,2025-03-11,Positive
+82,408,295,2,Very disappointed with the quality.,2025-01-31,Negative
+83,71,186,1,Arrived damaged and poorly packed.,2025-01-26,Negative
+84,257,208,5,Love the color and the material!,2025-01-02,Positive
+85,476,134,3,Delivery was late but item was okay.,2025-03-23,Neutral
+86,196,480,4,This shirt is my new favorite!,2025-01-07,Positive
+87,26,295,2,Does not fit as described.,2025-02-26,Negative
+88,265,12,2,Very disappointed with the quality.,2025-02-23,Negative
+89,164,105,1,Very disappointed with the quality.,2025-01-01,Negative
+90,72,198,2,Arrived damaged and poorly packed.,2025-02-05,Negative
+91,134,490,2,Arrived damaged and poorly packed.,2025-01-20,Negative
+92,56,36,3,"Average quality, but acceptable for the price.",2025-01-12,Neutral
+93,235,496,1,Fabric feels cheap and uncomfortable.,2025-01-23,Negative
+94,317,417,3,Delivery was late but item was okay.,2025-01-26,Neutral
+95,183,104,1,Too small despite ordering my size.,2025-01-24,Negative
+96,239,311,3,Color was slightly different than shown.,2025-03-10,Neutral
+97,90,9,5,Absolutely love the quality of this product!,2025-02-27,Positive
+98,161,185,5,Love the color and the material!,2025-02-22,Positive
+99,457,232,5,Stylish and arrived quickly. Highly recommended!,2025-01-21,Positive
+100,319,385,1,Arrived damaged and poorly packed.,2025-01-18,Negative
+101,55,73,3,"Quality is fine, not great though.",2025-03-02,Neutral
+102,439,141,3,Delivery was late but item was okay.,2025-01-31,Neutral
+103,366,54,5,Exceeded my expectations. Looks amazing!,2025-02-10,Positive
+104,243,179,4,Fits perfectly and looks great with jeans.,2025-03-25,Positive
+105,470,296,1,Stitching came apart after first wear.,2025-03-11,Negative
+106,6,121,5,Fantastic service and great quality clothing.,2025-03-30,Positive
+107,494,17,4,Great value for the price. Will buy again.,2025-01-21,Positive
+108,474,165,2,Not worth the money.,2025-01-12,Negative
+109,397,212,2,Arrived damaged and poorly packed.,2025-03-25,Negative
+110,128,264,5,Love the color and the material!,2025-01-21,Positive
+111,394,194,2,Does not fit as described.,2025-03-15,Negative
+112,226,148,1,Color faded after one wash.,2025-03-08,Negative
+113,262,152,3,"Average quality, but acceptable for the price.",2025-02-12,Neutral
+114,230,497,2,Looks different from the pictures.,2025-03-24,Negative
+115,67,214,4,Exceeded my expectations. Looks amazing!,2025-02-04,Positive
+116,232,319,3,"Quality is fine, not great though.",2025-02-25,Neutral
+117,35,375,1,Very disappointed with the quality.,2025-03-10,Negative
+118,126,242,5,Perfect fit and very comfortable.,2025-03-21,Positive
+119,469,85,4,Perfect fit and very comfortable.,2025-03-24,Positive
+120,359,338,2,Would not recommend to anyone.,2025-02-17,Negative
+121,247,295,2,Looks different from the pictures.,2025-02-26,Negative
+122,22,460,1,Does not fit as described.,2025-02-20,Negative
+123,258,465,1,Very disappointed with the quality.,2025-02-15,Negative
+124,185,420,3,Delivery was late but item was okay.,2025-03-04,Neutral
+125,77,352,4,Stylish and arrived quickly. Highly recommended!,2025-03-16,Positive
+126,43,134,1,Very disappointed with the quality.,2025-01-27,Negative
+127,64,186,3,Comfortable but not very stylish.,2025-03-17,Neutral
+128,292,124,2,Would not recommend to anyone.,2025-03-06,Negative
+129,283,253,2,Does not fit as described.,2025-01-27,Negative
+130,125,352,3,Expected better packaging.,2025-03-09,Neutral
+131,404,188,3,Comfortable but not very stylish.,2025-01-14,Neutral
+132,322,378,5,Love the color and the material!,2025-03-12,Positive
+133,235,208,1,Not worth the money.,2025-01-01,Negative
+134,4,448,5,Great value for the price. Will buy again.,2025-03-08,Positive
+135,139,214,3,"It's okay, not what I expected.",2025-01-27,Neutral
+136,437,106,1,Fabric feels cheap and uncomfortable.,2025-02-13,Negative
+137,123,262,1,Color faded after one wash.,2025-02-08,Negative
+138,49,81,4,Great value for the price. Will buy again.,2025-03-24,Positive
+139,212,383,4,Fabric feels premium and looks great.,2025-01-27,Positive
+140,472,167,3,Expected better packaging.,2025-01-30,Neutral
+141,227,47,5,Exceeded my expectations. Looks amazing!,2025-03-29,Positive
+142,128,455,2,Would not recommend to anyone.,2025-03-20,Negative
+143,320,227,1,Fabric feels cheap and uncomfortable.,2025-02-02,Negative
+144,416,107,3,"Average quality, but acceptable for the price.",2025-02-12,Neutral
+145,122,388,4,Stylish and arrived quickly. Highly recommended!,2025-01-26,Positive
+146,123,303,1,Too small despite ordering my size.,2025-02-05,Negative
+147,391,244,1,Color faded after one wash.,2025-02-17,Negative
+148,78,114,2,Arrived damaged and poorly packed.,2025-01-11,Negative
+149,356,234,4,Exceeded my expectations. Looks amazing!,2025-03-20,Positive
+150,111,292,4,Fantastic service and great quality clothing.,2025-02-17,Positive
+151,96,78,4,Perfect fit and very comfortable.,2025-03-29,Positive
+152,491,124,2,Fabric feels cheap and uncomfortable.,2025-01-06,Negative
+153,316,396,1,Would not recommend to anyone.,2025-02-28,Negative
+154,473,213,5,Love the color and the material!,2025-03-27,Positive
+155,27,426,2,Color faded after one wash.,2025-01-15,Negative
+156,1,233,5,This shirt is my new favorite!,2025-02-10,Positive
+157,476,52,2,Would not recommend to anyone.,2025-01-26,Negative
+158,86,477,1,Too small despite ordering my size.,2025-03-08,Negative
+159,437,102,2,Very disappointed with the quality.,2025-02-25,Negative
+160,327,440,4,Fabric feels premium and looks great.,2025-03-05,Positive
+161,80,83,4,Perfect fit and very comfortable.,2025-03-27,Positive
+162,108,140,4,Absolutely love the quality of this product!,2025-02-03,Positive
+163,367,378,4,Fantastic service and great quality clothing.,2025-02-28,Positive
+164,374,428,5,Fantastic service and great quality clothing.,2025-03-25,Positive
+165,273,92,4,Fits perfectly and looks great with jeans.,2025-02-25,Positive
+166,167,151,4,Fantastic service and great quality clothing.,2025-03-18,Positive
+167,110,18,2,Color faded after one wash.,2025-03-11,Negative
+168,76,378,4,Great value for the price. Will buy again.,2025-02-08,Positive
+169,55,305,5,Fits perfectly and looks great with jeans.,2025-01-02,Positive
+170,99,112,3,Comfortable but not very stylish.,2025-02-24,Neutral
+171,266,271,5,Fantastic service and great quality clothing.,2025-03-13,Positive
+172,326,251,4,Stylish and arrived quickly. Highly recommended!,2025-01-02,Positive
+173,56,3,2,Not worth the money.,2025-01-09,Negative
+174,407,280,2,Would not recommend to anyone.,2025-01-21,Negative
+175,122,292,2,Not worth the money.,2025-02-26,Negative
+176,436,116,1,Very disappointed with the quality.,2025-02-21,Negative
+177,272,473,5,Fantastic service and great quality clothing.,2025-03-09,Positive
+178,480,110,2,Fabric feels cheap and uncomfortable.,2025-03-22,Negative
+179,245,373,3,Delivery was late but item was okay.,2025-03-15,Neutral
+180,183,151,1,Stitching came apart after first wear.,2025-03-10,Negative
+181,313,92,3,Delivery was late but item was okay.,2025-03-09,Neutral
+182,105,356,1,Looks different from the pictures.,2025-01-11,Negative
+183,46,352,3,Nothing special but works fine.,2025-01-19,Neutral
+184,161,245,5,This shirt is my new favorite!,2025-01-14,Positive
+185,244,180,5,This shirt is my new favorite!,2025-02-14,Positive
+186,2,83,4,Fabric feels premium and looks great.,2025-01-28,Positive
+187,497,487,1,Arrived damaged and poorly packed.,2025-03-30,Negative
+188,449,152,2,Stitching came apart after first wear.,2025-01-17,Negative
+189,285,316,4,Fantastic service and great quality clothing.,2025-01-08,Positive
+190,268,322,4,Love the color and the material!,2025-03-13,Positive
+191,496,132,3,"Fit was alright, but not perfect.",2025-03-01,Neutral
+192,277,341,5,Fits perfectly and looks great with jeans.,2025-01-23,Positive
+193,252,151,4,Love the color and the material!,2025-03-04,Positive
+194,8,490,4,Exceeded my expectations. Looks amazing!,2025-02-04,Positive
+195,452,188,1,Would not recommend to anyone.,2025-02-07,Negative
+196,444,240,3,"Decent product, but could be better.",2025-01-21,Neutral
+197,218,283,3,Color was slightly different than shown.,2025-01-22,Neutral
+198,169,167,5,Great value for the price. Will buy again.,2025-02-14,Positive
+199,476,478,4,Fabric feels premium and looks great.,2025-02-23,Positive
+200,420,234,5,Fits perfectly and looks great with jeans.,2025-02-04,Positive
+201,150,244,2,Does not fit as described.,2025-02-11,Negative
+202,76,188,3,Color was slightly different than shown.,2025-01-08,Neutral
+203,417,96,2,Would not recommend to anyone.,2025-01-01,Negative
+204,313,115,5,Absolutely love the quality of this product!,2025-03-29,Positive
+205,98,295,5,Stylish and arrived quickly. Highly recommended!,2025-03-21,Positive
+206,197,52,2,Too small despite ordering my size.,2025-02-25,Negative
+207,361,366,3,Expected better packaging.,2025-01-13,Neutral
+208,466,216,5,Great value for the price. Will buy again.,2025-02-16,Positive
+209,327,322,5,Great value for the price. Will buy again.,2025-01-15,Positive
+210,81,314,5,Exceeded my expectations. Looks amazing!,2025-01-12,Positive
+211,98,136,1,Too small despite ordering my size.,2025-01-02,Negative
+212,257,450,5,Exceeded my expectations. Looks amazing!,2025-03-27,Positive
+213,30,118,5,Fits perfectly and looks great with jeans.,2025-03-25,Positive
+214,45,444,4,Exceeded my expectations. Looks amazing!,2025-02-28,Positive
+215,49,361,4,Love the color and the material!,2025-02-07,Positive
+216,415,393,5,Fantastic service and great quality clothing.,2025-03-02,Positive
+217,354,293,4,Fantastic service and great quality clothing.,2025-02-01,Positive
+218,328,379,2,Very disappointed with the quality.,2025-02-21,Negative
+219,280,436,2,Stitching came apart after first wear.,2025-01-02,Negative
+220,253,79,3,"Quality is fine, not great though.",2025-01-09,Neutral
+221,477,344,2,Would not recommend to anyone.,2025-01-03,Negative
+222,381,116,4,Perfect fit and very comfortable.,2025-02-12,Positive
+223,107,232,4,Exceeded my expectations. Looks amazing!,2025-01-26,Positive
+224,486,144,3,"Quality is fine, not great though.",2025-01-10,Neutral
+225,454,453,4,Fits perfectly and looks great with jeans.,2025-03-07,Positive
+226,207,476,3,Nothing special but works fine.,2025-02-02,Neutral
+227,343,312,4,Perfect fit and very comfortable.,2025-03-01,Positive
+228,237,197,5,Stylish and arrived quickly. Highly recommended!,2025-02-25,Positive
+229,469,64,5,Exceeded my expectations. Looks amazing!,2025-01-08,Positive
+230,29,85,1,Stitching came apart after first wear.,2025-01-03,Negative
+231,389,235,1,Would not recommend to anyone.,2025-01-02,Negative
+232,186,90,5,Absolutely love the quality of this product!,2025-01-03,Positive
+233,113,37,1,Very disappointed with the quality.,2025-01-01,Negative
+234,403,476,2,Too small despite ordering my size.,2025-02-20,Negative
+235,222,197,2,Color faded after one wash.,2025-03-15,Negative
+236,276,56,4,Stylish and arrived quickly. Highly recommended!,2025-01-19,Positive
+237,386,123,4,Perfect fit and very comfortable.,2025-03-05,Positive
+238,162,356,1,Fabric feels cheap and uncomfortable.,2025-02-16,Negative
+239,377,106,3,Nothing special but works fine.,2025-02-20,Neutral
+240,360,27,4,Fabric feels premium and looks great.,2025-01-11,Positive
+241,387,100,1,Fabric feels cheap and uncomfortable.,2025-03-13,Negative
+242,328,255,1,Would not recommend to anyone.,2025-03-29,Negative
+243,438,90,1,Stitching came apart after first wear.,2025-03-25,Negative
+244,146,473,4,Love the color and the material!,2025-02-23,Positive
+245,126,498,4,Exceeded my expectations. Looks amazing!,2025-03-19,Positive
+246,146,225,3,"Decent product, but could be better.",2025-03-06,Neutral
+247,436,479,4,Love the color and the material!,2025-01-10,Positive
+248,422,458,4,Stylish and arrived quickly. Highly recommended!,2025-03-29,Positive
+249,232,299,2,Too small despite ordering my size.,2025-02-22,Negative
+250,132,143,1,Too small despite ordering my size.,2025-03-16,Negative
+251,382,452,2,Arrived damaged and poorly packed.,2025-03-29,Negative
+252,293,353,1,Would not recommend to anyone.,2025-02-07,Negative
+253,55,182,5,Stylish and arrived quickly. Highly recommended!,2025-03-24,Positive
+254,342,128,5,Fabric feels premium and looks great.,2025-02-12,Positive
+255,86,76,2,Does not fit as described.,2025-01-15,Negative
+256,400,60,5,Perfect fit and very comfortable.,2025-03-20,Positive
+257,100,251,2,Color faded after one wash.,2025-01-20,Negative
+258,122,18,2,Very disappointed with the quality.,2025-01-05,Negative
+259,165,281,1,Very disappointed with the quality.,2025-03-02,Negative
+260,264,185,1,Arrived damaged and poorly packed.,2025-03-23,Negative
+261,288,10,3,Nothing special but works fine.,2025-01-12,Neutral
+262,175,392,3,Nothing special but works fine.,2025-02-26,Neutral
+263,325,219,4,Fits perfectly and looks great with jeans.,2025-01-07,Positive
+264,441,392,4,Absolutely love the quality of this product!,2025-03-13,Positive
+265,185,15,4,Fabric feels premium and looks great.,2025-01-20,Positive
+266,219,367,4,Absolutely love the quality of this product!,2025-01-07,Positive
+267,186,187,3,Nothing special but works fine.,2025-03-26,Neutral
+268,317,305,4,Absolutely love the quality of this product!,2025-03-22,Positive
+269,49,242,5,Fantastic service and great quality clothing.,2025-03-15,Positive
+270,217,43,2,Looks different from the pictures.,2025-03-28,Negative
+271,43,68,5,This shirt is my new favorite!,2025-02-22,Positive
+272,483,42,2,Stitching came apart after first wear.,2025-01-28,Negative
+273,165,158,5,Perfect fit and very comfortable.,2025-01-13,Positive
+274,98,435,4,Absolutely love the quality of this product!,2025-01-26,Positive
+275,438,390,2,Arrived damaged and poorly packed.,2025-01-07,Negative
+276,4,40,2,Looks different from the pictures.,2025-01-26,Negative
+277,412,15,1,Arrived damaged and poorly packed.,2025-01-27,Negative
+278,433,311,4,Great value for the price. Will buy again.,2025-03-11,Positive
+279,2,268,3,"Fit was alright, but not perfect.",2025-01-10,Neutral
+280,464,34,2,Not worth the money.,2025-01-15,Negative
+281,301,52,2,Would not recommend to anyone.,2025-02-14,Negative
+282,467,199,2,Arrived damaged and poorly packed.,2025-01-20,Negative
+283,62,351,4,Love the color and the material!,2025-02-14,Positive
+284,217,62,3,Delivery was late but item was okay.,2025-03-23,Neutral
+285,491,148,3,Color was slightly different than shown.,2025-02-26,Neutral
+286,454,5,4,Exceeded my expectations. Looks amazing!,2025-01-13,Positive
+287,236,188,1,Fabric feels cheap and uncomfortable.,2025-02-27,Negative
+288,190,138,5,Exceeded my expectations. Looks amazing!,2025-03-09,Positive
+289,473,33,1,Not worth the money.,2025-03-17,Negative
+290,11,474,2,Too small despite ordering my size.,2025-03-02,Negative
+291,422,267,2,Color faded after one wash.,2025-01-23,Negative
+292,286,25,4,Perfect fit and very comfortable.,2025-02-15,Positive
+293,195,305,5,Fabric feels premium and looks great.,2025-01-15,Positive
+294,233,372,4,Fantastic service and great quality clothing.,2025-02-14,Positive
+295,368,459,5,Perfect fit and very comfortable.,2025-03-17,Positive
+296,440,154,1,Too small despite ordering my size.,2025-01-12,Negative
+297,246,214,3,"Fit was alright, but not perfect.",2025-01-15,Neutral
+298,472,496,3,Expected better packaging.,2025-02-17,Neutral
+299,33,184,4,Great value for the price. Will buy again.,2025-01-05,Positive
+300,240,358,2,Looks different from the pictures.,2025-02-11,Negative
+301,118,478,2,Does not fit as described.,2025-01-29,Negative
+302,271,107,4,Fits perfectly and looks great with jeans.,2025-02-09,Positive
+303,111,429,3,Delivery was late but item was okay.,2025-01-15,Neutral
+304,61,202,1,Would not recommend to anyone.,2025-02-21,Negative
+305,458,433,4,Love the color and the material!,2025-02-05,Positive
+306,95,13,3,"Fit was alright, but not perfect.",2025-01-08,Neutral
+307,251,298,2,Would not recommend to anyone.,2025-01-03,Negative
+308,448,167,4,Stylish and arrived quickly. Highly recommended!,2025-02-17,Positive
+309,186,481,3,"Quality is fine, not great though.",2025-01-03,Neutral
+310,115,41,2,Looks different from the pictures.,2025-03-25,Negative
+311,373,403,3,"Quality is fine, not great though.",2025-01-12,Neutral
+312,211,287,1,Very disappointed with the quality.,2025-02-01,Negative
+313,349,380,5,This shirt is my new favorite!,2025-03-01,Positive
+314,352,106,1,Does not fit as described.,2025-03-29,Negative
+315,67,49,5,Fabric feels premium and looks great.,2025-02-16,Positive
+316,236,33,4,Fits perfectly and looks great with jeans.,2025-01-28,Positive
+317,485,88,5,Stylish and arrived quickly. Highly recommended!,2025-03-18,Positive
+318,246,42,4,Absolutely love the quality of this product!,2025-02-18,Positive
+319,439,272,5,This shirt is my new favorite!,2025-03-29,Positive
+320,9,384,4,Great value for the price. Will buy again.,2025-02-21,Positive
+321,370,200,3,"Quality is fine, not great though.",2025-02-12,Neutral
+322,50,202,5,Stylish and arrived quickly. Highly recommended!,2025-03-28,Positive
+323,69,379,2,Arrived damaged and poorly packed.,2025-02-27,Negative
+324,97,342,3,"It's okay, not what I expected.",2025-01-17,Neutral
+325,316,267,3,"Decent product, but could be better.",2025-03-18,Neutral
+326,284,330,2,Stitching came apart after first wear.,2025-01-03,Negative
+327,18,44,3,Nothing special but works fine.,2025-03-26,Neutral
+328,408,272,3,Nothing special but works fine.,2025-03-30,Neutral
+329,345,250,1,Would not recommend to anyone.,2025-03-23,Negative
+330,409,394,1,Too small despite ordering my size.,2025-01-17,Negative
+331,318,433,1,Arrived damaged and poorly packed.,2025-01-28,Negative
+332,479,179,1,Too small despite ordering my size.,2025-03-14,Negative
+333,399,486,5,Perfect fit and very comfortable.,2025-03-21,Positive
+334,500,25,2,Would not recommend to anyone.,2025-01-17,Negative
+335,421,293,1,Would not recommend to anyone.,2025-02-20,Negative
+336,39,141,1,Does not fit as described.,2025-01-15,Negative
+337,77,163,5,Exceeded my expectations. Looks amazing!,2025-03-11,Positive
+338,96,67,2,Very disappointed with the quality.,2025-01-24,Negative
+339,273,489,5,Fabric feels premium and looks great.,2025-03-22,Positive
+340,447,249,2,Arrived damaged and poorly packed.,2025-03-19,Negative
+341,435,337,3,Comfortable but not very stylish.,2025-03-19,Neutral
+342,76,179,3,"Decent product, but could be better.",2025-02-11,Neutral
+343,175,261,5,Stylish and arrived quickly. Highly recommended!,2025-01-01,Positive
+344,271,387,5,Fits perfectly and looks great with jeans.,2025-02-02,Positive
+345,337,498,5,Love the color and the material!,2025-01-22,Positive
+346,319,194,5,Fabric feels premium and looks great.,2025-03-17,Positive
+347,55,491,3,Expected better packaging.,2025-03-25,Neutral
+348,63,447,4,Love the color and the material!,2025-03-21,Positive
+349,44,231,3,Comfortable but not very stylish.,2025-02-20,Neutral
+350,140,161,4,Absolutely love the quality of this product!,2025-03-14,Positive
+351,164,216,2,Does not fit as described.,2025-02-05,Negative
+352,467,59,1,Very disappointed with the quality.,2025-02-15,Negative
+353,258,371,1,Stitching came apart after first wear.,2025-01-18,Negative
+354,404,365,2,Does not fit as described.,2025-01-02,Negative
+355,217,199,2,Not worth the money.,2025-02-08,Negative
+356,486,367,4,Exceeded my expectations. Looks amazing!,2025-02-24,Positive
+357,290,352,4,Absolutely love the quality of this product!,2025-01-25,Positive
+358,295,281,1,Does not fit as described.,2025-01-29,Negative
+359,452,376,1,Stitching came apart after first wear.,2025-01-04,Negative
+360,216,136,2,Too small despite ordering my size.,2025-02-21,Negative
+361,435,430,4,Fabric feels premium and looks great.,2025-01-28,Positive
+362,199,257,2,Too small despite ordering my size.,2025-01-02,Negative
+363,394,269,4,Exceeded my expectations. Looks amazing!,2025-01-15,Positive
+364,75,299,1,Stitching came apart after first wear.,2025-02-20,Negative
+365,276,287,5,Fits perfectly and looks great with jeans.,2025-01-12,Positive
+366,54,456,1,Color faded after one wash.,2025-03-10,Negative
+367,64,272,4,Fabric feels premium and looks great.,2025-03-18,Positive
+368,388,376,5,Love the color and the material!,2025-03-12,Positive
+369,180,60,3,Delivery was late but item was okay.,2025-02-15,Neutral
+370,144,299,2,Stitching came apart after first wear.,2025-01-26,Negative
+371,32,317,4,Fits perfectly and looks great with jeans.,2025-01-19,Positive
+372,467,40,4,Stylish and arrived quickly. Highly recommended!,2025-03-26,Positive
+373,76,65,5,Fits perfectly and looks great with jeans.,2025-01-13,Positive
+374,284,408,1,Would not recommend to anyone.,2025-02-28,Negative
+375,457,135,3,"Average quality, but acceptable for the price.",2025-02-12,Neutral
+376,416,51,2,Not worth the money.,2025-03-29,Negative
+377,70,350,1,Not worth the money.,2025-01-20,Negative
+378,428,84,2,Not worth the money.,2025-03-30,Negative
+379,87,53,4,Fantastic service and great quality clothing.,2025-02-15,Positive
+380,99,398,1,Looks different from the pictures.,2025-01-19,Negative
+381,313,237,5,Absolutely love the quality of this product!,2025-02-03,Positive
+382,168,257,2,Color faded after one wash.,2025-01-03,Negative
+383,452,316,5,Absolutely love the quality of this product!,2025-01-30,Positive
+384,40,273,5,This shirt is my new favorite!,2025-03-23,Positive
+385,300,468,4,Absolutely love the quality of this product!,2025-01-07,Positive
+386,268,423,2,Fabric feels cheap and uncomfortable.,2025-02-11,Negative
+387,186,286,5,Fits perfectly and looks great with jeans.,2025-02-23,Positive
+388,237,331,2,Not worth the money.,2025-01-23,Negative
+389,490,7,2,Does not fit as described.,2025-01-23,Negative
+390,172,100,2,Color faded after one wash.,2025-02-15,Negative
+391,380,260,4,Love the color and the material!,2025-01-06,Positive
+392,364,435,4,Absolutely love the quality of this product!,2025-01-09,Positive
+393,264,371,3,Color was slightly different than shown.,2025-01-20,Neutral
+394,8,123,4,Absolutely love the quality of this product!,2025-02-21,Positive
+395,253,262,1,Very disappointed with the quality.,2025-01-05,Negative
+396,183,369,2,Fabric feels cheap and uncomfortable.,2025-03-15,Negative
+397,118,111,5,Fits perfectly and looks great with jeans.,2025-02-19,Positive
+398,221,467,3,Nothing special but works fine.,2025-03-17,Neutral
+399,15,294,2,Does not fit as described.,2025-03-08,Negative
+400,178,324,4,Absolutely love the quality of this product!,2025-01-08,Positive

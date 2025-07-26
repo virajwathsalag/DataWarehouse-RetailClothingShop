@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendJSON:JSONFileConnection xmi:id="_-xGGMFoYEfCCV_X3ipWijQ" name="M_PerformanceMatrix" dataPackage="_-xGGPFoYEfCCV_X3ipWijQ" JSONFilePath="D:/NIBM/Degree/HND/DWBI/courseWk/sachitha_query/Dim_PerformanceMatrix.json" Encoding="UTF-8" readbyMode="JSONPATH">
+    <schema xmi:id="_-xGGMVoYEfCCV_X3ipWijQ" LimitBoucle="50" AbsoluteXPathQuery="$[*]" flag="ROOT_OBJECT">
+      <schemaTargets xmi:id="_-xGGMloYEfCCV_X3ipWijQ" RelativeXPathQuery="PerformanceID" TagName="PerformanceID"/>
+      <schemaTargets xmi:id="_-xGGM1oYEfCCV_X3ipWijQ" RelativeXPathQuery="ProformanceRating" TagName="ProformanceRating"/>
+      <schemaTargets xmi:id="_-xGGNFoYEfCCV_X3ipWijQ" RelativeXPathQuery="ReviewDate" TagName="ReviewDate"/>
+      <schemaTargets xmi:id="_-xGGNVoYEfCCV_X3ipWijQ" RelativeXPathQuery="ReviewCycle" TagName="ReviewCycle"/>
+      <schemaTargets xmi:id="_-xGGNloYEfCCV_X3ipWijQ" RelativeXPathQuery="KPI_Score" TagName="KPI_Score"/>
+      <schemaTargets xmi:id="_-xGGN1oYEfCCV_X3ipWijQ" RelativeXPathQuery="TargetCovered" TagName="TargetCovered"/>
+      <schemaTargets xmi:id="_-xGGOFoYEfCCV_X3ipWijQ" RelativeXPathQuery="EmployeeID" TagName="EmployeeID"/>
+      <schemaTargets xmi:id="_-xGGOVoYEfCCV_X3ipWijQ" RelativeXPathQuery="ManagerComments" TagName="ManagerComments"/>
+      <schemaTargets xmi:id="_-xGGOloYEfCCV_X3ipWijQ" RelativeXPathQuery="Department" TagName="Department"/>
+      <schemaTargets xmi:id="_-xGGO1oYEfCCV_X3ipWijQ" RelativeXPathQuery="End_Date" TagName="End_Date"/>
+    </schema>
+  </TalendJSON:JSONFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_-xGGPFoYEfCCV_X3ipWijQ" name="default" dataManager="_-xGGMFoYEfCCV_X3ipWijQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_-xGGPVoYEfCCV_X3ipWijQ" id="_qudeUFoYEfCCV_X3ipWijQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGPloYEfCCV_X3ipWijQ" label="PerformanceID" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGP1oYEfCCV_X3ipWijQ" label="ProformanceRating" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGQFoYEfCCV_X3ipWijQ" label="ReviewDate" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGQVoYEfCCV_X3ipWijQ" label="ReviewCycle" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGQloYEfCCV_X3ipWijQ" label="KPI_Score" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGQ1oYEfCCV_X3ipWijQ" label="TargetCovered" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGRFoYEfCCV_X3ipWijQ" label="EmployeeID" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGRVoYEfCCV_X3ipWijQ" label="ManagerComments" length="49" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGRloYEfCCV_X3ipWijQ" label="Department" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-xGGR1oYEfCCV_X3ipWijQ" label="End_Date" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendJSON:JSONFileConnection xmi:id="__iMBYFoXEfCCV_X3ipWijQ" name="M_AttendenceEmployee" dataPackage="__iMBaVoXEfCCV_X3ipWijQ" JSONFilePath="D:/NIBM/Degree/HND/DWBI/courseWk/Final-New-Viraj/dim_attendance_4500.json" Encoding="UTF-8" readbyMode="JSONPATH">
+    <schema xmi:id="__iMBYVoXEfCCV_X3ipWijQ" LimitBoucle="50" AbsoluteXPathQuery="$[*]" flag="ROOT_OBJECT">
+      <schemaTargets xmi:id="__iMBYloXEfCCV_X3ipWijQ" RelativeXPathQuery="AttendenceID" TagName="AttendenceID"/>
+      <schemaTargets xmi:id="__iMBY1oXEfCCV_X3ipWijQ" RelativeXPathQuery="employee_id" TagName="employee_id"/>
+      <schemaTargets xmi:id="__iMBZFoXEfCCV_X3ipWijQ" RelativeXPathQuery="date" TagName="date"/>
+      <schemaTargets xmi:id="__iMBZVoXEfCCV_X3ipWijQ" RelativeXPathQuery="scheduled_start_time" TagName="scheduled_start_time"/>
+      <schemaTargets xmi:id="__iMBZloXEfCCV_X3ipWijQ" RelativeXPathQuery="actual_start_time" TagName="actual_start_time"/>
+      <schemaTargets xmi:id="__iMBZ1oXEfCCV_X3ipWijQ" RelativeXPathQuery="attendence_status" TagName="attendence_status"/>
+      <schemaTargets xmi:id="__iMBaFoXEfCCV_X3ipWijQ" RelativeXPathQuery="absence_reason" TagName="absence_reason"/>
+    </schema>
+  </TalendJSON:JSONFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="__iMBaVoXEfCCV_X3ipWijQ" name="default" dataManager="__iMBYFoXEfCCV_X3ipWijQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="__iMBaloXEfCCV_X3ipWijQ" id="_ymv7IFoWEfCCV_X3ipWijQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBa1oXEfCCV_X3ipWijQ" label="AttendenceID" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBbFoXEfCCV_X3ipWijQ" label="employee_id" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBbVoXEfCCV_X3ipWijQ" label="date" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBbloXEfCCV_X3ipWijQ" label="scheduled_start_time" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBb1oXEfCCV_X3ipWijQ" label="actual_start_time" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBcFoXEfCCV_X3ipWijQ" label="attendence_status" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__iMBcVoXEfCCV_X3ipWijQ" label="absence_reason" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

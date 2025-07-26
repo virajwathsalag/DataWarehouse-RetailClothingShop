@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_yWAzMFqUEfC9ROLHPrAnTQ" name="M_SupplierTypenew" dataPackage="_yWAzMVqUEfC9ROLHPrAnTQ" Server="Localhost 127.0.0.1" FilePath="D:/NIBM/Degree/HND/DWBI/courseWk/SachithaConfirm/SupplierType.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_yWAzMVqUEfC9ROLHPrAnTQ" name="default" dataManager="_yWAzMFqUEfC9ROLHPrAnTQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_yWAzMlqUEfC9ROLHPrAnTQ" id="_pVqNAFqUEfC9ROLHPrAnTQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yWAzM1qUEfC9ROLHPrAnTQ" label="SupplierTypeID" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yWAzNFqUEfC9ROLHPrAnTQ" label="Name" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yWAzNVqUEfC9ROLHPrAnTQ" label="Description" length="79" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,341 @@
+[ {
+  "baseItem" : {
+    "id" : "_JR4hkFpfEfC9ROLHPrAnTQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-xFfIFoYEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_C8vW4Fp_EfC9ROLHPrAnTQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__iI-EFoXEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qHY3QFoYEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yWAMIFqUEfC9ROLHPrAnTQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_-xFfIFoYEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_C8vW4Fp_EfC9ROLHPrAnTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "__iI-EFoXEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_qHY3QFoYEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - color",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - inventory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - productcategory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - promotions",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - returnes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - sales",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - salesitems",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - size",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_yWAMIFqUEfC9ROLHPrAnTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XBe7kFpTEfCC6o4IBhVByA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-xFfIFoYEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0oMyUFoSEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_C8vW4Fp_EfC9ROLHPrAnTQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__iI-EFoXEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qHY3QFoYEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yWAMIFqUEfC9ROLHPrAnTQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_-xFfIFoYEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_0oMyUFoSEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_ATTENDANCE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_CUSTOMER",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_EMPLOYEEINFO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_PRODUCT",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_PROMOTIONS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_RETURN",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_SUPPLIER",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_SUPPLIERTYPE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - FACT_INVENTORYSUMMARY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - FACT_ORDERSUMMARY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - FACT_SUPPLIERPERFORMANCE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_C8vW4Fp_EfC9ROLHPrAnTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "__iI-EFoXEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_qHY3QFoYEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - color",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - inventory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - productcategory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - promotions",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - returnes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - sales",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - salesitems",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - size",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_yWAMIFqUEfC9ROLHPrAnTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_YMK3kFoHEfCCV_X3ipWijQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0oMyUFoSEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0oMyUFoSEfCCV_X3ipWijQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_CUSTOMER",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_PRODUCT",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_PROMOTIONS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_RETURN",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_SUPPLIER",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - DIM_SUPPLIERTYPE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - FACT_INVENTORYSUMMARY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64PX8FpdEfCC6o4IBhVByA - FACT_SUPPLIERPERFORMANCE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - product",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_dJ6CQFoaEfCCV_X3ipWijQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_C1OIgFpREfCC6o4IBhVByA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_C1OIgFpREfCC6o4IBhVByA - DIM_PROMOTIONS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - promotions",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u9E5AFoGEfCCV_X3ipWijQ - returnes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
